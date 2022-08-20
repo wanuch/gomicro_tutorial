@@ -17,3 +17,20 @@ how to run docker
 =============================
 go into project folder
 docker-compose up -d
+
+down the borker with Makefile
+=============================
+make down
+
+stop the borker with Makefile
+=============================
+make stop
+
+start the frontend with Makefile
+=============================
+make start
+
+build the broker with Makefile
+=============================
+make up_build
+
